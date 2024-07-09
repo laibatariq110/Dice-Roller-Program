@@ -32,3 +32,7 @@ This is a simple Dice Roller program built with HTML, CSS, and JavaScript. It al
 2. Enter the number of dice you want to roll in the input box.
 3. Click the "Roll Dice" button.
 4. The result will be displayed below, both as text and as images of dice.
+
+## License
+
+This project is licensed under the MIT License.
