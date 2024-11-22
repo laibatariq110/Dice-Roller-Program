@@ -2,6 +2,10 @@
 
 This is a simple Dice Roller program built with HTML, CSS, and JavaScript. It allows the user to roll a specified number of dice and displays the result both numerically and visually.
 
+## 🌐 Live Demo
+![Dice Roller Program Screenshot](images/dice-roller.png)
+[View the live project here!](https://laibatariq110.github.io/Dice-Roller-Program)
+
 ## Table of Contents
 - [Features](#features)
 - [Setup](#setup)
